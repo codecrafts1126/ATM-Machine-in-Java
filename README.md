@@ -1,4 +1,6 @@
 # ATM Project in Java
+![Java](https://img.shields.io/badge/Language-Java-red.svg) 
+![Status](https://img.shields.io/badge/Status-Complete-orange.svg)
 
 This is a simple ATM project in Java. It allows users to login with their account number and PIN, and then view their balance or withdraw funds from their checking or saving accounts.
 
